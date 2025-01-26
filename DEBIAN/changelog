@@ -1,0 +1,17 @@
+  teamspeak6-client (6.0.0-beta2-3) noble; urgency=medium
+
+   * Fix error in preinst
+
+  -- Manuel Merkl <manuel.merkl@icloud.com>  Sun, 26 Jan 2025 16:49:00 +0100
+
+  teamspeak6-client (6.0.0-beta2-2) noble; urgency=medium
+
+   * Fix missing dependency: menu
+
+  -- Manuel Merkl <manuel.merkl@icloud.com>  Sun, 26 Jan 2025 16:38:00 +0100
+
+  teamspeak6-client (6.0.0-beta2-1) noble; urgency=medium
+
+   * Initial Release.
+
+  -- Manuel Merkl <manuel.merkl@icloud.com>  Sun, 26 Jan 2025 14:27:00 +0100

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Teamspeak 6
+Exec=/usr/bin/teamspeak6-client
+Terminal=false
+Icon=/opt/teamspeak-client/logo-128.png
+Categories=Network
+Comment=Teamspeak 6 Beta 2 Client

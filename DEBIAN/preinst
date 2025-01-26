@@ -1,0 +1,8 @@
+#!/bin/bash
+CLIENTARCHIVE="teamspeak-client.tar.gz"
+cd /tmp
+wget https://files.teamspeak-services.com/pre_releases/client/6.0.0-beta2/$CLIENTARCHIVE
+mkdir teamspeak-client
+tar -xvzf $CLIENTARCHIVE -C teamspeak-client
+mv teamspeak-client /opt/
+rm -f $CLIENTARCHIVE

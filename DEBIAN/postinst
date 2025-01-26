@@ -1,0 +1,5 @@
+#!/bin/bash
+DIR="teamspeak-client"
+# Add link in /usr/bin
+ln -s /opt/$DIR/TeamSpeak /usr/bin/teamspeak6-client
+update-menus
